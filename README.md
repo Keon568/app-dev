@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# Favorite Show
+**Arcane is a Netflix animated series set in the world of League of Legends, exploring the tense divide between the wealthy city of Piltover and the oppressed undercity of Zaun. It follows the tragic story of two sisters, Vi and Jinx, whose lives are torn apart by conflict, technological innovation, and personal betrayal. Known for its stunning animation and emotional depth, the show has been praised by both fans and newcomers.**
